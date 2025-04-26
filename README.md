@@ -36,7 +36,7 @@ Puedes consultar el reporte final completo en el siguiente enlace:
 ## Archivos Forenses
 Puedes consultar una copia de los archivos forenses recuperados en:
 
-➡️ [Acceder al Reporte Final](https://drive.google.com/drive/folders/1cgOQjSaNFcXENCz_UVkxR0G4Nb9-TcEy?usp=sharing)
+➡️ [Acceder al Archivo Forense](https://drive.google.com/drive/folders/1cgOQjSaNFcXENCz_UVkxR0G4Nb9-TcEy?usp=sharing)
 
 ---
 
