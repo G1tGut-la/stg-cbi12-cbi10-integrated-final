@@ -31,7 +31,7 @@ El reporte será respaldado en línea en un repositorio de GitHub para su poster
 ## Reporte Final
 Puedes consultar el reporte final completo en el siguiente enlace:
 
-➡️ [Acceder al Reporte Final](./Analisis%20Final.docx)
+➡️ [Acceder al Reporte Final](https://github.com/G1tGut-la/stg-cbi12-cbi10-integrated-final/raw/refs/heads/main/Analisis%20Final.docx)
 
 ## Archivos Forenses
 Puedes consultar una copia de los archivos forenses recuperados en:
